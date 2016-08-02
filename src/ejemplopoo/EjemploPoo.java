@@ -31,7 +31,7 @@ public class EjemploPoo {
         persona.nombre="";
         persona.inicializar();
         persona.imprimir();
-        //oel!!!
+        //oelo!!!
         
     }
     
